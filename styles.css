@@ -1,0 +1,32 @@
+body {
+  background-color: darkslategrey;
+}
+
+#yellow {
+  background-color: yellow;
+  color: rgb(89, 0, 255);
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+#red {
+  background-color: crimson;
+  color: cornflowerblue;
+}
+
+div {
+  border-style: dashed;
+  border-width: 2px 5px;
+  border-color: darkorchid;
+  margin: 15px;
+}
+
+.square {
+  padding: 10px;
+}
+
+#black{
+  background-color: black;
+}
